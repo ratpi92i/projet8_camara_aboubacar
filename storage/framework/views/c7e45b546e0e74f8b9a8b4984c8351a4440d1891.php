@@ -1,0 +1,1 @@
+<h1> bonjour</h1><?php /**PATH C:\xampp\htdocs\essai\resources\views/home/home.blade.php ENDPATH**/ ?>
